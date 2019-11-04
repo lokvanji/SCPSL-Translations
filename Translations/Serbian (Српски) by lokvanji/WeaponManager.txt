@@ -1,0 +1,7 @@
+Koristi bilo koju strelicu da zapocneš...
+Navigacija - GORE/DOLE strelice \nSelect - DESNO strelica \nBack - LEVO strelica
+[var_name]\n\nVrsta municije: [var_atype]\nReservna municija: [var_ares]\nVelicina cargera: [var_mag]\n\nNajveca šteta: [var_maxdmg]\nEfektivna šteta: [var_effdmg]\nPucanja po sekundi: [var_sps]\n\nDostupne kustomizacije: [var_custs]\n\nRIGHT ARROW KEY TO CUSTOMIZE THE WEAPON
+You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
+Nema metkova da baciš (type [var_nom]). \nLEVA strelica za nazad.
+BURE
+OSTALO

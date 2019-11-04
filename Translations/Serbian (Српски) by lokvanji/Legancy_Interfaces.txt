@@ -1,0 +1,17 @@
+Daj naredbe
+Prati naredbe
+Ista pozicija
+Klase D pobeglo
+Naucnika preživelo
+Ubijen od SCP
+Unistenih SCP subjekata
+Alpha Warhead
+Detonated
+Unused
+Sledeca runda pocinje za [time] sekundi.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE
+Umreo si
+Ubijen si od
+kao

@@ -1,0 +1,17 @@
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nHold left click+W and aim at your enemy to kill.\nYou are faster at lower HP.</color>
+Pobegni odavde.\nKooperiši sa <color=#008f1e>Pobunom haosa.</color>\nAvoid other teams.
+Uskoro ces se stvoriti.
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Pomozi <color=#FFFF7CFF>naucnicima</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to insta-kill enemies w/ no cooldown.\nHold E on a person </color><color=#f00>you've</color><color=#ffff00> killed to zombify.\nYou zombify faster at lower HP.</color>
+Pobegni od svakoga.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color>
+Pomozi <color=#FF8E00>Klasi D</color> escape.\nNeutralize other subjects.
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color>
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to attack with a short windup.\nYou attack faster at lower HP.</color>
+Pomozi <color=#FFFF7CFF>naucnicima</color> da pobegnu.\nNeutralize other subjects.\nInstruktoj vojnike. \nSlušaj komandere.
+Pomozi <color=#FFFF7CFF>naucnicima</color> da pobegnu.\nNeutralize other subjects.\nInstruktuj vojnike.
+Pomozi <color=#FFFF7CFF>naucnicima</color> da pobegnu.\nNeutralize other subjects.\nSlušaj ljude na vecim pozicijama.
+Follow the tasks to complete your objective.
+Pomozi <color=#FFFF7CFF>naucnicima</color> da pobegnu\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+UBIJ SVAKOGA.\nZaustavi beg.\nCooperate with other <color=#f00>SCPs.</color>
