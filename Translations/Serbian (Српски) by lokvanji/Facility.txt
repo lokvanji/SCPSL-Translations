@@ -1,0 +1,33 @@
+VOICE VOLUME
+DA
+FORCE START
+SCP-106 RE-CONAINMENT\nPROCEDURE OVERRIDE
+Invertuj Y-osu
+SUMMARY
+ODUSTANI
+I N V E N T A R
+SVETLOST
+PODEŠAVANJA
+DISKONEKTUJ SE
+ALPHA BOMBA je iskljucena
+ACCESS DENIED
+VOICE CHAT
+Pun inventar
+M. OSETLJIVOST
+HAKOVANJE
+PICKING UP...
+Podizanje svetlosti <b>veoma utice na atmosferu igrice. </b>of the game.\nPokusaj da ovo bude sto manje.\n<b>Standardna vrednost je preporucena.</b>
+[1] OTVORI/ZATVORI VRATA\n[2]ZAKLJUCAJ VRATA*\n\n*Zakljucavanje koristi specialnu moc
+SCP-079 je zakljucao vrata
+Mod celog ekrana
+Are you sure you want to leave the server?
+Osnovne opcije. Sva podešavanja su u menu.
+Cekanje igraca.
+SUMMARY
+NASTAVI
+GLAVNI ZVUK
+konektovan
+Pobegao si kao naucnik i postao P.O.G.
+Pobegao si kao Klasa D i postao Pobuna Haosa.
+Ti si
+Vreme za koje si pobegao: [escape_minutes] minuta i [escape_seconds] sekundi

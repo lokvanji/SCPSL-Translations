@@ -1,0 +1,19 @@
+<size=80IZBACEN SI</size>\nServer je morao da prestane konekciju.\n<size=26>\nVerovatno si banovan na neko vreme\ili ne ispunjujes zahteve(n.p.r. konekcija sa steamom).\nZa banove autori igrice <u>nisu</u> odgovorni\n</size>
+<size=80>DISKONEKTOVAN SI</size>\nHost nije dostupan.
+<size=80>DISKONEKTOVAN SI</size>\nID konekcije nepostoji.
+<size=80>DISKONEKTOVAN SI</size>\nSpecifikovani kanal nepostoji.
+<size=80>DISKONEKTOVAN SI</size>\nServer je pun.
+<size=80>DISKONEKTOVAN SI</size>\nDobili smo pogrešan paket.
+<size=80>DISKONEKTOVAN SI</size>\nKonekcija izgubljena (Nestalo vremena).
+<size=80>DISKONEKTOVAN SI</size>\nKonekcija izgubljena (Nestalo vremena).
+<size=80>DISKONEKTOVAN SI</size>\nOperacija nije podržana.
+<size=80>DISKONEKTOVAN SI</size>\nPogrešna konfiguracija servera (Nekompatabilna verzija).
+<size=80>DISKONEKTOVAN SI</size>\nPogrešna konfiguracija servera.
+<size=80>DISKONEKTOVAN SI</size>\nAdresa nije validna.
+<size=80>DISKONEKTOVAN SI</size>\nNeocekivana greška se desila!
+<size=80>MOLIM VAS SACEKAJTE</size>\n<size=35>Stvaranje konekcije...</size>
+<size=80>RUNDA SE RESTARTUJE</size>\n<size=35>Runda se restartuje...</size>
+<size=80>MOLIM VAS SACEKAJTE</size>\n<size=35>Ucitavanje nivoa</size>
+<size=80>NEKOMPATIBILNA VERZIJA</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])
+<size=80>KONEKTOVAN</size>\n<size=35>Ucitavanje nivoa</size>
+<size=35>Ucitavanje</size>

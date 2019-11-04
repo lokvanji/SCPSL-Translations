@@ -1,0 +1,5 @@
+UMREO SI
+Pritisni {KEYBINDING_INTERACTION} da staviš <color=yellow>Weapon Manager Tablet</color>.
+Pritisni {KEYBINDING_INTERACTION} da uzmeš <color=yellow>Weapon Manager Tablet</color>.
+Ovaj <color=yellow>workstation</color> vec ima neciji <color=yellow>Weapon Manager Tablet</color> konektovan.
+TREBA TI <color=yellow>Weapon Manager Tablet</color> DA BI KORISTIO<color=yellow>workstation</color>.
